@@ -1,4 +1,4 @@
-# AutoFinetune
+# SMITEGodBrainstorm
 
 Simple python app to demonstrate using a JSON file to define a chain of prompts to use to create a Word document with the results of the prompts. The example is constructed to create a word document for a SMITE god brainstorming session.
 
