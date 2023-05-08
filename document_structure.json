@@ -1,0 +1,170 @@
+[
+    {
+        "section": "Mythological Background",
+        "subsections": [
+            {
+                "subsection": "Overview",
+                "prompt": "Provide a high-level summary of the mythological background of the god {god_name}."
+            },
+            {
+                "subsection": "Origin and Family",
+                "prompt": "In bulleted format, describe the known relatives and family relationships of the god {god_name}. Include detail on how {god_name} is related to the family member or other god, and notes that could be of special interest when designing interactions between gods in SMITE ."
+            },
+            {
+                "subsection": "Major Myths and Stories",
+                "prompt": "In bulleted format, describe any notable myths and stories involving the god {god_name} that might be useful from a game design standpoint."
+            },
+            {
+                "subsection": "Symbolism and Associations",
+                "prompt": "In bulleted format, describe the symbols, attributes, and associations linked to the god {god_name}. Include detail and color about each symbol, attribute and association and how that might be useful from a game design standpoint. Include as many symbols and associations as you know."
+            },
+            {
+                "subsection": "Special Cultural Considerations",
+                "prompt": "Describe any special things that should be considered when implementing the god {god_name} inside of SMITE to make sure we implement the god in a manner that will be culturally sensitive and appropriate."
+            }
+        ]
+    },
+    {
+        "section": "Character Concept",
+        "subsections": [
+            {
+                "subsection": "Overview",
+                "prompt": "Provide a high-level summary of the character concept and themes of the god {god_name}."
+            },
+            {
+                "subsection": "Appearance and Visual Design",
+                "prompt": "Describe the appearance, attire, and visual elements of the god {god_name}."
+            },
+            {
+                "subsection": "Personality and Motivations",
+                "prompt": "Describe the personality, motivations, and demeanor of the god {god_name}."
+            },
+            {
+                "subsection": "Themes and Inspiration",
+                "prompt": "Describe the key themes and sources of inspiration for the character concept of the god {god_name}."
+            },
+            {
+                "subsection": "Potential Art Prompts",
+                "prompt": "In bulleted format, create 10 AI Art prompts that we can put into MidJourney to create a mood board for what the god {god_name} might look like insdie SMITE. Please create prompts that are two to three sentences long, that include in-depth detail on how the AI Art agent should portray Sekhmet, incorporating incorporate elements important for their game design. Each prompt should be very highly descriptive, describing the complete appearance of the god in detail, and use highly descriptive art terms and adjectives that would help an artist draw the character even if they had little knowledge of who the god is "
+            }
+        ]
+    },
+    {
+        "section": "Abilities and Powers",
+        "subsections": [
+            {
+                "subsection": "Overview",
+                "prompt": "Provide a high-level summary of the possible abilities and powers of the god {god_name}."
+            },
+            {
+                "subsection": "Passive Ability",
+                "prompt": "Brainstorm 25 ideas for a passive ability for the god {god_name} based on the god's mythological background and role inside the game."
+            },
+            {
+                "subsection": "Active Abilities",
+                "prompt": "Brainstorm 25 ideas for active abilities for the god {god_name} based on the god's mythological background and role inside the game."
+            },
+            {
+                "subsection": "Ultimate Ability",
+                "prompt": "Brainstorm 25 ideas for an ultimate ability for the god {god_name} based on his mythological background and role inside game."
+            }
+        ]
+    },
+    {
+        "section": "Gameplay Mechanics",
+        "subsections": [
+            {
+                "subsection": "Overview",
+                "prompt": "Provide a high-level summary of the proposed gameplay mechanics and role of the god {god_name}."
+            },
+            {
+                "subsection": "Role and Playstyle",
+                "prompt": "Describe the intended role (e.g., mage, warrior) and playstyle of the god {god_name}."
+            },
+            {
+                "subsection": "Strategies and Combos",
+                "prompt": "Suggest strategies, combos, and synergies for playing the god {god_name} effectively."
+            },
+            {
+                "subsection": "Strengths and Weaknesses",
+                "prompt": "Analyze the strengths, weaknesses, and potential counters of the god {god_name}."
+            }
+        ]
+    },
+    {
+        "section": "Aesthetics and Visual Design",
+        "subsections": [
+            {
+                "subsection": "Overview",
+                "prompt": "Provide a high-level summary of the visual and aesthetic design elements of the god {god_name}."
+            },
+            {
+                "subsection": "Character Model and Animations",
+                "prompt": "Describe the character model, animations, and visual effects of the god {god_name}."
+            },
+            {
+                "subsection": "Skins and Cosmetics",
+                "prompt": "Describe available skins and cosmetic items for the god {god_name}."
+            }
+        ]
+    },
+    {
+        "section": "Voice and Sound Design",
+        "subsections": [
+            {
+                "subsection": "Overview",
+                "prompt": "Provide a high-level summary of the voice and sound design of the god {god_name}."
+            },
+            {
+                "subsection": "Voice Lines and Dialogue",
+                "prompt": "In bulleted format, describe the voice lines, dialogue, and voice actor selection for the god {god_name}."
+            },
+            {
+                "subsection": "Sound Effects and Music",
+                "prompt": "In bulleted format, describe the sound effects, ability sounds, and associated music for the god {god_name}."
+            },
+            {
+                "subsection": "Casting Notes",
+                "prompt": "In bulleted format, Based on your proposed game design, please write Casting Notes to be used by the actor portraying the god {god_name}."
+            },
+            {
+                "subsection": "Casting Considerations",
+                "prompt": "In bulleted format, Based on your proposed game design, please write notes to give to the audio specialist assigned with casting the right actor for the god {god_name}, so that he or she may select the best actor or actress."
+            },
+            {
+                "subsection": "Possible Joke Lines",
+                "prompt": "Brainstorm 20 ideas for short joke lines to give the god {god_name} in SMITE. These lines should be funny and appropriate for the character and, where possible draw from the character's lore and personality."
+            },
+            {
+                "subsection": "Possible Taunt Lines",
+                "prompt": "Brainstorm 20 ideas for short taunt lines to give the god {god_name} in SMITE. These lines should be funny and appropriate for the character and, where possible draw from the character's lore and personality."
+            },
+            {
+                "subsection": "Possible Match Start Lines",
+                "prompt": "Brainstorm 20 ideas for short  lines for the god {god_name} to say when they first come into a match in SMITE. These lines should be funny and appropriate for the character and, where possible draw from the character's lore and personality."
+            },
+            {
+                "subsection": "Possible Interaction Lines",
+                "prompt": "Brainstorm 20 ideas for short interaction lines for the god {god_name} to say when they encounter another specific god SMITE. These lines should be funny and appropriate for the character and, where possible draw from each of the characters lore and personality."
+            }
+        ]
+    },
+    {
+        "section": "Lore and In-Game Story",
+        "subsections": [
+            {
+                "subsection": "Overview",
+                "prompt": "Provide a high-level summary of the in-game lore and narrative of the god {god_name}."
+            },
+            {
+                "subsection": "Backstory and Relationships",
+                "prompt": "Describe the backstory, relationships with other gods, and place in the game world of the god {god_name}."
+            },
+            {
+                "subsection": "Events and Map Interactions",
+                "prompt": "Describe any special in-game events or map interactions inside the Conquest gamemode in SMITE that could involve the god {god_name}."
+            }
+        ]
+    }
+    ]
+    
